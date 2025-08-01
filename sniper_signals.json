@@ -1,0 +1,166 @@
+{
+  "generated_at": "2025-08-01T17:05:01.675278",
+  "total_signals": 20,
+  "signals": [
+    {
+      "asset": "EURGBP",
+      "direction": "CALL",
+      "entry_time": "17:07",
+      "confidence": "74.6%",
+      "expiry": "1 minute",
+      "analysis": "Consolidation pattern, Very High volatility, breakout expected"
+    },
+    {
+      "asset": "EURUSD",
+      "direction": "PUT",
+      "entry_time": "17:09",
+      "confidence": "88.8%",
+      "expiry": "1 minute",
+      "analysis": "Strong bearish momentum, Very High volatility, price testing support"
+    },
+    {
+      "asset": "NZDUSD",
+      "direction": "CALL",
+      "entry_time": "17:11",
+      "confidence": "74.8%",
+      "expiry": "1 minute",
+      "analysis": "Consolidation pattern, Very High volatility, breakout expected"
+    },
+    {
+      "asset": "AUDUSD",
+      "direction": "PUT",
+      "entry_time": "17:13",
+      "confidence": "78.9%",
+      "expiry": "1 minute",
+      "analysis": "Moderate bearish trend, Very High volatility, downward pressure"
+    },
+    {
+      "asset": "NZDUSD",
+      "direction": "CALL",
+      "entry_time": "17:15",
+      "confidence": "77.3%",
+      "expiry": "1 minute",
+      "analysis": "Consolidation pattern, Very High volatility, breakout expected"
+    },
+    {
+      "asset": "EURGBP",
+      "direction": "CALL",
+      "entry_time": "17:17",
+      "confidence": "85.0%",
+      "expiry": "1 minute",
+      "analysis": "Moderate bullish trend, Very High volatility, upward pressure"
+    },
+    {
+      "asset": "USDJPY",
+      "direction": "CALL",
+      "entry_time": "17:19",
+      "confidence": "81.0%",
+      "expiry": "1 minute",
+      "analysis": "Moderate bullish trend, Very High volatility, upward pressure"
+    },
+    {
+      "asset": "GBPUSD",
+      "direction": "CALL",
+      "entry_time": "17:21",
+      "confidence": "76.1%",
+      "expiry": "1 minute",
+      "analysis": "Moderate bullish trend, Very High volatility, upward pressure"
+    },
+    {
+      "asset": "EURUSD",
+      "direction": "PUT",
+      "entry_time": "17:23",
+      "confidence": "75.4%",
+      "expiry": "1 minute",
+      "analysis": "Moderate bearish trend, Very High volatility, downward pressure"
+    },
+    {
+      "asset": "EURGBP",
+      "direction": "CALL",
+      "entry_time": "17:25",
+      "confidence": "81.1%",
+      "expiry": "1 minute",
+      "analysis": "Moderate bullish trend, Very High volatility, upward pressure"
+    },
+    {
+      "asset": "EURGBP",
+      "direction": "CALL",
+      "entry_time": "17:27",
+      "confidence": "68.9%",
+      "expiry": "1 minute",
+      "analysis": "Consolidation pattern, Very High volatility, breakout expected"
+    },
+    {
+      "asset": "USDJPY",
+      "direction": "PUT",
+      "entry_time": "17:29",
+      "confidence": "65.1%",
+      "expiry": "1 minute",
+      "analysis": "Consolidation pattern, Very High volatility, breakout expected"
+    },
+    {
+      "asset": "NZDUSD",
+      "direction": "PUT",
+      "entry_time": "17:31",
+      "confidence": "69.3%",
+      "expiry": "1 minute",
+      "analysis": "Consolidation pattern, Very High volatility, breakout expected"
+    },
+    {
+      "asset": "AUDUSD",
+      "direction": "PUT",
+      "entry_time": "17:33",
+      "confidence": "77.4%",
+      "expiry": "1 minute",
+      "analysis": "Moderate bearish trend, Very High volatility, downward pressure"
+    },
+    {
+      "asset": "NZDUSD",
+      "direction": "CALL",
+      "entry_time": "17:35",
+      "confidence": "76.1%",
+      "expiry": "1 minute",
+      "analysis": "Moderate bullish trend, Very High volatility, upward pressure"
+    },
+    {
+      "asset": "EURUSD",
+      "direction": "CALL",
+      "entry_time": "17:37",
+      "confidence": "79.3%",
+      "expiry": "1 minute",
+      "analysis": "Moderate bullish trend, Very High volatility, upward pressure"
+    },
+    {
+      "asset": "USDCAD",
+      "direction": "CALL",
+      "entry_time": "17:39",
+      "confidence": "83.0%",
+      "expiry": "1 minute",
+      "analysis": "Moderate bullish trend, Very High volatility, upward pressure"
+    },
+    {
+      "asset": "USDCAD",
+      "direction": "CALL",
+      "entry_time": "17:41",
+      "confidence": "71.5%",
+      "expiry": "1 minute",
+      "analysis": "Consolidation pattern, Very High volatility, breakout expected"
+    },
+    {
+      "asset": "NZDUSD",
+      "direction": "PUT",
+      "entry_time": "17:43",
+      "confidence": "90.2%",
+      "expiry": "1 minute",
+      "analysis": "Strong bearish momentum, Very High volatility, price testing support"
+    },
+    {
+      "asset": "NZDUSD",
+      "direction": "PUT",
+      "entry_time": "17:45",
+      "confidence": "77.1%",
+      "expiry": "1 minute",
+      "analysis": "Moderate bearish trend, Very High volatility, downward pressure"
+    }
+  ]
+}
