@@ -1,0 +1,90 @@
+{
+  "generated_at": "2025-08-01T17:30:18.485205",
+  "total_signals": 133,
+  "final_signals": [
+    {
+      "asset": "GBPJPY",
+      "direction": "PUT",
+      "confidence": "95.0%",
+      "entry_time": "17:30:18",
+      "analysis": "Strong bearish pressure in US Overlap session, high volatility"
+    },
+    {
+      "asset": "USDCAD",
+      "direction": "PUT",
+      "confidence": "95.0%",
+      "entry_time": "17:30:29",
+      "analysis": "Strong bearish pressure in US Overlap session, low volatility"
+    },
+    {
+      "asset": "AUDCAD",
+      "direction": "CALL",
+      "confidence": "95.0%",
+      "entry_time": "17:30:44",
+      "analysis": "Strong bullish momentum in US Overlap session, medium volatility"
+    },
+    {
+      "asset": "EURUSD",
+      "direction": "PUT",
+      "confidence": "95.0%",
+      "entry_time": "17:31:05",
+      "analysis": "Strong bearish pressure in US Overlap session, medium volatility"
+    },
+    {
+      "asset": "AUDCAD",
+      "direction": "CALL",
+      "confidence": "95.0%",
+      "entry_time": "17:30:16",
+      "analysis": "Strong bullish momentum in US Overlap session, medium volatility"
+    },
+    {
+      "asset": "EURUSD",
+      "direction": "PUT",
+      "confidence": "95.0%",
+      "entry_time": "17:31:00",
+      "analysis": "Strong bearish pressure in US Overlap session, medium volatility"
+    },
+    {
+      "asset": "EURUSD",
+      "direction": "PUT",
+      "confidence": "95.0%",
+      "entry_time": "17:30:59",
+      "analysis": "Strong bearish pressure in US Overlap session, medium volatility"
+    },
+    {
+      "asset": "AUDCAD",
+      "direction": "CALL",
+      "confidence": "95.0%",
+      "entry_time": "17:32:02",
+      "analysis": "Strong bullish momentum in US Overlap session, high volatility"
+    },
+    {
+      "asset": "EURUSD",
+      "direction": "PUT",
+      "confidence": "95.0%",
+      "entry_time": "17:30:55",
+      "analysis": "Strong bearish pressure in US Overlap session, medium volatility"
+    },
+    {
+      "asset": "USDCAD",
+      "direction": "PUT",
+      "confidence": "95.0%",
+      "entry_time": "17:32:06",
+      "analysis": "Strong bearish pressure in US Overlap session, medium volatility"
+    },
+    {
+      "asset": "USDCAD",
+      "direction": "PUT",
+      "confidence": "95.0%",
+      "entry_time": "17:31:14",
+      "analysis": "Strong bearish pressure in US Overlap session, low volatility"
+    },
+    {
+      "asset": "USDCAD",
+      "direction": "PUT",
+      "confidence": "93.9%",
+      "entry_time": "17:32:02",
+      "analysis": "Strong bearish pressure in US Overlap session, low volatility"
+    }
+  ]
+}
